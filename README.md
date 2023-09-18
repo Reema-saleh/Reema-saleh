@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Profile Website**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **reema.mulayfi@gmail.com**
 
